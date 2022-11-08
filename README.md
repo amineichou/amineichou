@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Amine ichou
+## Hi there 👋 My name is Amine ichou and i'm a web developer
 
 
 
