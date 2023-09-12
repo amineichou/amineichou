@@ -1,6 +1,5 @@
 ## Hi there 👋 My name is Amine ichou 
-### I'm a web developer
-#### React x Laravel
+### I'm a software programmer
 
 
 <img src="https://media.giphy.com/media/88zFtljrXcHbhIhet8/giphy.gif">
