@@ -7,4 +7,3 @@
 
 - 🔭 I’m currently working on react js
 - 🌱 I’m currently learning laravel
-- 😄 Pronouns: michou
